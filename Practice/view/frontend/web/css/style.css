@@ -1,0 +1,17 @@
+.productlist{
+    color: blue;
+    border-style: dotted;
+    border-color: blue;
+}
+
+.headerlist{
+    color: red;
+    border-style: dotted;
+    border-color: red;
+}
+
+.product{
+    color: green;
+    border-style: dotted;
+    border-color: green;
+}
